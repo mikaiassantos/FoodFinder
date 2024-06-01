@@ -28,9 +28,12 @@
 
 ## 📸 Capturas de Tela
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="assets/SlidePage-FoodFinder.jpg" alt="" width="900" height="480">
-</div>
+<p align="center">
+  <img src="assets/SlidePage-FoodFinder(1).png" alt="Welcome" width="200">
+  <img src="assets/SlidePage-FoodFinder(2).png" alt="Home" width="200"/>
+  <img src="assets/SlidePage-FoodFinder(3).png" alt="Detalhes do Restaurante" width="200"/>
+  <img src="assets/SlidePage-FoodFinder(4).png" alt="Mapa" width="200"/>
+</p>
 
 ## 🙏 Agradecimentos
 Obrigado por conferir o FoodFinder! Espero que este aplicativo seja útil para você encontrar deliciosos restaurantes próximos. Se tiver alguma dúvida, sugestão ou feedback, não hesite em entrar em contato.
